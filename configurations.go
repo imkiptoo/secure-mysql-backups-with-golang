@@ -1,0 +1,8 @@
+package main
+
+const MYSQL_USER = "YOUR_USERNAME_HERE"
+const MYSQL_PASSWORD = "YOUR_PASSWORD_HERE_HERE"
+const MYSQL_DATABASE = "mysql"
+const DAYS_TO_KEEP = 30
+const BACKUP_PATH = "/backups/mysql"
+const GPG_PASSPHRASE = "YOUR_GPG_PASSPHRASE_HERE"
